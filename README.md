@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Daanish Khan!</h1>
-<h3 align="center">New Grad Software Engineer from Canada :)</h3>
+<h3 align="center">New Grad Software Engineer from uOttawa :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daanish-khan&label=Profile%20views&color=0e75b6&style=flat" alt="daanish-khan" /> </p>
 
