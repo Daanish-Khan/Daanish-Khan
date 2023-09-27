@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daanish-khan&label=Profile%20views&color=0e75b6&style=flat" alt="daanish-khan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daanish-khan" alt="daanish-khan" /></a> </p>
+- 🔭 I’m currently working on [HoyoBot - A Discord bot that introduces QOL for some of MHY's systems (Daily check in, Global Code Redeem)!](https://github.com/Daanish-Khan/HoyoBot)
 
-- 🔭 I’m currently working on [HoyoBot - A Discord bot that introduces automation for daily check in and code redemption for some of MHY's games!](https://github.com/Daanish-Khan/HoyoBot)
-- 🔭 I'm also involved with [Mikado Machine - A new way to organize tasks using the Mikado Method!](https://mikadomachine.uottawaesports.ca/)
-  
 - 🌱 I’m currently learning **Vue3 and TypeScript!**
+
+- 🔭 I'm also involved with [Mikado Machine - A new way to organize tasks using the Mikado Method.](https://mikadomachine.uottawaesports.ca/)
+
 - 📫 How to reach me: **dkhan045@uottawa.ca**
 
 - 📄 Check out my resume here: [http://daanish-khan.github.io/resume/cv.pdf](http://daanish-khan.github.io/resume/cv.pdf)
