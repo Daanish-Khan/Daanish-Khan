@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [HoyoBot - A Discord bot that introduces QOL for some of MHY's systems (Daily check in, Global Code Redeem)!](https://github.com/Daanish-Khan/HoyoBot)
 
-- 🌱 I’m currently learning **Vue3 and TypeScript!**
-
 - 🔭 I'm also involved with [Mikado Machine - A new way to organize tasks using the Mikado Method.](https://mikadomachine.uottawaesports.ca/)
+
+- 🌱 I’m currently learning **Vue3 and TypeScript!**
 
 - 📫 How to reach me: **dkhan045@uottawa.ca**
 
