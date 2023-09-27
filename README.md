@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Vue3 and TypeScript!**
 
-- 📫 How to reach me: **dkhan045@uottawa.ca**
+- 📫 How to reach me: [Shoot me a message on LinkedIn!](https://www.linkedin.com/in/daanish-khan/)
 
 - 📄 Check out my resume here: [http://daanish-khan.github.io/resume/cv.pdf](http://daanish-khan.github.io/resume/cv.pdf)
 
